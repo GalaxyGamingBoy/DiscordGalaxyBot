@@ -52,5 +52,5 @@ client.on('message', message =>{
     }
 });
  
-client.login('NzI3NTg0MDQwNzg1NTQzMTk4.Xvt9pQ.zJnxz9lBfQjZiXUdurcTCdGuyG8');
+client.login('Your Login ID');
  
